@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Control Statements/Control Statements.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Control Statements/Control Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Data Types/Data Types.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Data Types/Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Execptions/Execptions.iml" filepath="$PROJECT_DIR$/Execptions/Execptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File Handling/File Handling.iml" filepath="$PROJECT_DIR$/File Handling/File Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Inheritance/Hiearchial Inheritance/Hiearchial Inheritance.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Inheritance/Hiearchial Inheritance/Hiearchial Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JFSJD00001-20251118T044551Z-1-001.iml" filepath="$PROJECT_DIR$/.idea/JFSJD00001-20251118T044551Z-1-001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Java Topics/Java Topics.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Java Topics/Java Topics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Loops/Loops.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Methods/Methods.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/Multidimensional Array/Multidimensional Array.iml" filepath="$PROJECT_DIR$/array/Multidimensional Array/Multidimensional Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Operators/Operators.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Queue/Queue.iml" filepath="$PROJECT_DIR$/Collections/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Scanner Topics/Scanner Topics.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Scanner Topics/Scanner Topics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Set/Set.iml" filepath="$PROJECT_DIR$/Collections/Set/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/Single Dimensional Array/Single Dimensional Array.iml" filepath="$PROJECT_DIR$/array/Single Dimensional Array/Single Dimensional Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Switch statements/Switch statements.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Switch statements/Switch statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Type Casting/Type Casting.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/Type Casting/Type Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/inner_class_nested class/inner_class_nested class.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/inner_class_nested class/inner_class_nested class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Inheritance/multilevel inheritance/multilevel inheritance.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/Inheritance/multilevel inheritance/multilevel inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/oopsconcept.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/oopsconcept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/JFSJD00001-20251118T044551Z-1-001/JFSJD00001/JFSJD00001/oopsconcept/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Queue/priority Queue/priority Queue.iml" filepath="$PROJECT_DIR$/Collections/Queue/priority Queue/priority Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/stack/stack.iml" filepath="$PROJECT_DIR$/Collections/stack/stack.iml" />
+    </modules>
+  </component>
+</project>
